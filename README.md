@@ -1,0 +1,1 @@
+This project implements two separate microservices using Flask and deploy them to Azure Container Instances (ACI). The goal is to build one service that exposes an API with book data and another service that consumes that API to retrieve and display book information.
